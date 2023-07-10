@@ -1,3 +1,14 @@
+# Labforge Port of Clip
+
+Labforge Bottlenose cameras support generating CLIP embeddings on sensor. This repository contains Labforge modifications to the original CLIP code base to support Labforge related tooling.
+
+To learn more about how to use Bottlenose bottlenose embeddings check out our Demo [here]().
+
+
+# Original Description Below
+----
+
+
 # CLIP
 
 [[Blog]](https://openai.com/blog/clip/) [[Paper]](https://arxiv.org/abs/2103.00020) [[Model Card]](model-card.md) [[Colab]](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb)
